@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">composeImageList</string>
+    <string name="image_content_description">cat</string>
+    <string name="delete_icon_content_description">delete</string>
+</resources>
